@@ -1,0 +1,32 @@
+body{
+  text-align: center;
+  font-family:  'Outfit', sans-serif;
+  background-color: #d6e2f0;
+}
+.qrBox{
+  margin:100px auto;
+  width: 20%;
+  background-color: #ffffff;
+  border-radius: 5%;
+}
+.qr-code{
+  width:90%;
+  padding: 5%;
+  border-radius: 8%;
+}
+.para1{
+  margin:10px 30px;
+  font-weight: bolder;
+  line-height: 1.5;
+  font-size: 1.1rem;
+
+
+}
+.para2{
+  margin: 10px 30px 30px;
+  font-weight: lighter;
+  line-height: 1.5;
+  padding-bottom: 20px;
+  color: 	#7b879d;
+  font-size: 0.8rem;
+}
